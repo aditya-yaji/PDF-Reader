@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="enable_dark_theme">Disable Dark Theme</string>
+    <string name="ui">Change Mode</string>
+    <string name="dark_mode_def_value">MODE_NIGHT_FOLLOW_SYSTEM</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="settings">Settings</string>
+</resources>
